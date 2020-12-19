@@ -1,0 +1,9 @@
+data
+delta-tables
+dsc402
+outputs
+spark-warehouse
+*-checkpoint.ipynb
+*.pyc
+*-checkpoint.py
+*-checkpoint

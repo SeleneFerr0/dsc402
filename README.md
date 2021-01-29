@@ -14,9 +14,9 @@ note: you may want to clone this repo into a dirtory on your machine that you or
 [Install docker on your computer](https://docs.docker.com/get-docker/)
 
 Pull the all-spark-notebook image from docker hub: <br>
-<code>https://hub.docker.com/r/jupyter/all-spark-notebook</code>
+<code>https://hub.docker.com/r/jupyter/lpalum/dsc402</code>
 <br>Launch the docker image to open a Jupyter Lab instance in your local browser:<br>
-<code>docker run -it --rm -p 8888:8888 --name all-spark --volume /home/<your username>/code/github:/home/jovyan/work jupyter/all-spark-notebook start.sh jupyter lab</code>
+<code>docker run -it --rm -p 8888:8888 --name all-spark --volume /home/<your username>/code/github:/home/jovyan/work lpalum/dsc402 start.sh jupyter lab</code>
 
 This will start a jupyter lab instance on your machine that you will be able to access at port 8888 in your browser and it will mount the github repo that you previouly
 cloned into the containers working directory.
@@ -24,6 +24,7 @@ cloned into the containers working directory.
 ## Sign-up for the Community Edition of Databricks
 [Databrick Community Edition FAQ](https://databricks.com/product/faq/community-edition)
 
-import the DBC archive from the dsc402 github repositiory into your account.
+import the DBC archive from the Learning Spark v2 github repositiory into your account.
+[DBC Archive](https://github.com/databricks/LearningSparkV2/blob/master/notebooks/LearningSparkv2.dbc)
 
 

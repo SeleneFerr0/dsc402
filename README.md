@@ -27,4 +27,5 @@ cloned into the containers working directory.
 import the DBC archive from the Learning Spark v2 github repositiory into your account.
 [DBC Archive](https://github.com/databricks/LearningSparkV2/blob/master/notebooks/LearningSparkv2.dbc)
 
-
+import the DBC archive for Project 1 from this repositiory into your account.
+[Project 1 Archive](https://github.com/lpalum/dsc402/blob/master/notebooks/DSCC-202-402-Project1.dbc)

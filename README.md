@@ -21,8 +21,11 @@ Pull the all-spark-notebook image from docker hub: <br>
 This will start a jupyter lab instance on your machine that you will be able to access at port 8888 in your browser and it will mount the github repo that you previouly
 cloned into the containers working directory.
 
-## Sign-up for the Community Edition of Databricks
+## Sign-up for the Community Edition of Databricks and import archives
 [Databrick Community Edition FAQ](https://databricks.com/product/faq/community-edition)
+
+Here is some helpful information about importing archives into to the Databricks Envioronment: 
+https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook
 
 import the DBC archive from the Learning Spark v2 github repositiory into your account.
 [DBC Archive](https://github.com/databricks/LearningSparkV2/blob/master/notebooks/LearningSparkv2.dbc)

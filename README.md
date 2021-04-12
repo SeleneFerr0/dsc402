@@ -1,6 +1,6 @@
 # dscc 402-202 Data Science at Scale
 
-## Establishing a GitHub account if your do not already have one
+## Establishing a GitHub account if your do not have one already
 [Sign up for a new github account](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account) <br>
 
 ## Fork the class repository into your account
